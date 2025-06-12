@@ -1,0 +1,7 @@
+C:\Users\Рекрут\source\repos\lab04\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Рекрут\source\repos\lab04\Strategy\bin\Debug\Strategy.exe
+C:\Users\Рекрут\source\repos\lab04\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Рекрут\source\repos\lab04\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+C:\Users\Рекрут\source\repos\lab04\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Рекрут\source\repos\lab04\Strategy\obj\Debug\Strategy.exe
+C:\Users\Рекрут\source\repos\lab04\Strategy\obj\Debug\Strategy.pdb
