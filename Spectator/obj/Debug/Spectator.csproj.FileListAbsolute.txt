@@ -1,0 +1,7 @@
+C:\Users\Рекрут\source\repos\lab04\Spectator\bin\Debug\Spectator.exe.config
+C:\Users\Рекрут\source\repos\lab04\Spectator\bin\Debug\Spectator.exe
+C:\Users\Рекрут\source\repos\lab04\Spectator\bin\Debug\Spectator.pdb
+C:\Users\Рекрут\source\repos\lab04\Spectator\obj\Debug\Spectator.csproj.AssemblyReference.cache
+C:\Users\Рекрут\source\repos\lab04\Spectator\obj\Debug\Spectator.csproj.CoreCompileInputs.cache
+C:\Users\Рекрут\source\repos\lab04\Spectator\obj\Debug\Spectator.exe
+C:\Users\Рекрут\source\repos\lab04\Spectator\obj\Debug\Spectator.pdb
