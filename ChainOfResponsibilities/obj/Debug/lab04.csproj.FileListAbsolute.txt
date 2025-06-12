@@ -1,0 +1,8 @@
+C:\Users\Рекрут\source\repos\lab04\lab04\bin\Debug\lab04.exe.config
+C:\Users\Рекрут\source\repos\lab04\lab04\bin\Debug\lab04.exe
+C:\Users\Рекрут\source\repos\lab04\lab04\bin\Debug\lab04.pdb
+C:\Users\Рекрут\source\repos\lab04\lab04\obj\Debug\lab04.csproj.AssemblyReference.cache
+C:\Users\Рекрут\source\repos\lab04\lab04\obj\Debug\lab04.csproj.CoreCompileInputs.cache
+C:\Users\Рекрут\source\repos\lab04\lab04\obj\Debug\lab04.exe
+C:\Users\Рекрут\source\repos\lab04\lab04\obj\Debug\lab04.pdb
+C:\Users\Рекрут\source\repos\lab04\lab04\obj\Debug\lab04.exe.config

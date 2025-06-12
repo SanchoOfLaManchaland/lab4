@@ -1,0 +1,7 @@
+C:\Users\Рекрут\source\repos\lab04\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\Рекрут\source\repos\lab04\Mediator\bin\Debug\Mediator.exe
+C:\Users\Рекрут\source\repos\lab04\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Рекрут\source\repos\lab04\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\Рекрут\source\repos\lab04\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Рекрут\source\repos\lab04\Mediator\obj\Debug\Mediator.exe
+C:\Users\Рекрут\source\repos\lab04\Mediator\obj\Debug\Mediator.pdb

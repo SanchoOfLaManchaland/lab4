@@ -1,0 +1,7 @@
+C:\Users\Рекрут\source\repos\lab04\Memento\bin\Debug\Memento.exe.config
+C:\Users\Рекрут\source\repos\lab04\Memento\bin\Debug\Memento.exe
+C:\Users\Рекрут\source\repos\lab04\Memento\bin\Debug\Memento.pdb
+C:\Users\Рекрут\source\repos\lab04\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\Рекрут\source\repos\lab04\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\Рекрут\source\repos\lab04\Memento\obj\Debug\Memento.exe
+C:\Users\Рекрут\source\repos\lab04\Memento\obj\Debug\Memento.pdb
